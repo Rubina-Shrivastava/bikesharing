@@ -21,10 +21,4 @@
 ## Summary:
 ### An additional visualizatin that may help investors determine if Citibikes are a good fit for Des Moines include correlating weather data between Des Moines and New York City. Both cities have four seasons, and if there temperatures and weather are similar, than this may also provide a stronger case to investors that Citibikes is a great fit for Des Moines, Iowa.
 ###  One other visualization I would like to make is the average distance between customers home location and the bike renting location which would allow the customer to adjust for potential biker locations.
-### Although I think we have enough evidence to convince our customer to do this even if we are only looking at one month, there are some other visulizations that can further back this claim. If we were to look at the colder months in the city to see how many riders we have in November/December so that the customer can prepare for those months,in order to determine if Citibikes is a good fit for Des Moines, Iowa, analysts visualize population growths between Des Moines and New York City,If population growth for Des Moines is greater than New York City's, the Citibikes has potential to be a great fit for Des Moines
-
-
-
-
-
-There is a high-level summary of the results and two additional visualizations are suggested for future analysis 
+### Although I think we have enough evidence to convince our customer to do this even if we are only looking at one month, there are some other visulizations that can further back this claim. If we were to look at the colder months in the city to see how many riders we have in November/December so that the customer can prepare for those months,in order to determine if Citibikes is a good fit for Des Moines, Iowa, analysts visualize population growths between Des Moines and New York City,If population growth for Des Moines is greater than New York City's, the Citibikes has potential to be a great fit for Des Moines.
