@@ -10,8 +10,14 @@
 [link to dashboard](https://public.tableau.com/app/profile/rubina.shrivastava/viz/NYCCitibikeanalysis_16625969687830/OutcomesoftheNYCCitibikeanalysis?publish=yes "link to dashboard")
 ### we create a set of visualizations to:
 ### Show the length of time that bikes are checked out for all riders and genders
+![Show the length of time that bikes are checked out for all riders](https://github.com/Rubina-Shrivastava/bikesharing/blob/main/Images/length%20of%20time%20that%20bikes%20are%20checked%20out%20for%20all%20riders%20and%20genders.png)
+![Show the length of time that bikes are checked out for all riders and genders](https://github.com/Rubina-Shrivastava/bikesharing/blob/main/Images/length%20of%20time%20that%20bikes%20are%20checked%20out.png)
 ### Show the number of bike trips for all riders and genders for each hour of each day of the week
+![Show the number of bike trips for all riders](https://github.com/Rubina-Shrivastava/bikesharing/blob/main/Images/number%20of%20bike%20trips%20for%20all%20riders%20.png)
+![Show the number of bike trips for all riders and gender](https://github.com/Rubina-Shrivastava/bikesharing/blob/main/Images/number%20of%20bike%20trips%20for%20all%20riders%20and%20genders.png)
 ### Show the number of bike trips for each type of user and gender for each day of the week.
+![Show the number of bike trips for each type of user and gender](https://github.com/Rubina-Shrivastava/bikesharing/blob/main/Images/number%20of%20bike%20trips%20for%20each%20type%20of%20user%20and%20gende.png)
+
 ## Summary:
 ### An additional visualizatin that may help investors determine if Citibikes are a good fit for Des Moines include correlating weather data between Des Moines and New York City. Both cities have four seasons, and if there temperatures and weather are similar, than this may also provide a stronger case to investors that Citibikes is a great fit for Des Moines, Iowa.
 ###  One other visualization I would like to make is the average distance between customers home location and the bike renting location which would allow the customer to adjust for potential biker locations.
