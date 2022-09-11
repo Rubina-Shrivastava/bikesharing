@@ -8,7 +8,7 @@
 ## Result: 
 ## Link to Tableau Story:
 [link to dashboard](https://public.tableau.com/app/profile/rubina.shrivastava/viz/NYCCitibikeanalysis_16625969687830/OutcomesoftheNYCCitibikeanalysis?publish=yes "link to dashboard")
-### we create a set of visualizations to:
+### We create a set of visualizations to:
 ### Show the length of time that bikes are checked out for all riders and genders
 ![Show the length of time that bikes are checked out for all riders](https://github.com/Rubina-Shrivastava/bikesharing/blob/main/Images/length%20of%20time%20that%20bikes%20are%20checked%20out%20for%20all%20riders%20and%20genders.png)
 ![Show the length of time that bikes are checked out for all riders and genders](https://github.com/Rubina-Shrivastava/bikesharing/blob/main/Images/length%20of%20time%20that%20bikes%20are%20checked%20out.png)
